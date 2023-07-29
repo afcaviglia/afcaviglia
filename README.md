@@ -17,9 +17,9 @@ My name is Agustin, I'm a passionate bioinformatic, data analyst and statistical
 ## Skills
 
 * ✔️ Python, TCL, R programming
-* ✔️ Molecular Dynamics Simulation and Visualization
-* ✔️ Data analysis and Statistics
-* ✔️ Scientific communication
+* ✔️ Molecular Dynamics Simulation (NAMD) and Visualization (VMD)
+* ✔️ Data analysis and Statistics (Python, R)
+* ✔️ Scientific communication (LaTex)
 * ✔️ Fast learning
 * ✔️ Problem Solving
 
