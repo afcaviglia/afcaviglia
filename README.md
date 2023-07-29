@@ -7,12 +7,12 @@ My name is Agustin, I'm a passionate bioinformatic, data analyst and statistical
 ## Last Years Experience
 
 * 🧬 Protein and Molecular Systems Modeling
-* 🫕 Molecular Dynamics and Monte Carlo Simulation
+* 💻 Molecular Dynamics and Monte Carlo Simulation
 * 📏 Molecular Trajectory Analysis using TCL and Python (Prody, MDAnalysis, BioPython)
-* 📚 Database Generation and Maintenance in Python/Pandas
+* 💽 Database Generation and Maintenance in Python/Pandas
 * 🔭 Data Analysis of Databases with Python
 * 🔬 Statistical Analysis of Results with R
-* ✍🏿 Scientific writing
+* ✍🏿 Scientific writing and effective communication
 
 ## Skills
 
@@ -26,4 +26,4 @@ My name is Agustin, I'm a passionate bioinformatic, data analyst and statistical
 ## Looking for
 
 🎯 I am looking to build my experience in the private sector, working with companies or start-ups
-* I am eager to acquire valuable experience in the private sector, collaborating with companies and start-ups
+
