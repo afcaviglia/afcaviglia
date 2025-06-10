@@ -1,8 +1,7 @@
 # Hello 👋
-My name is Agustin, I'm a passionate bioinformatic, data analyst and statistical consultant from Argentina 🧉.
+My name is Agustin, I'm a passionate Structural Bioinformatic and Data Analyst from Argentina 🧉.
 
-* 👨🏾‍🎓 I made my PhD in Protein Biophysics at Universidad de Buenos Aires (https://uba.ar/#/)
-* 👨🏾‍💻 I’m currently learning SQL and Machine Learning
+* 👨🏾‍🎓 I made my PhD in Computational Biophysics at Universidad de Buenos Aires (https://uba.ar/#/)
 
 ## Last Years Experience
 
