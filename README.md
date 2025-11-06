@@ -1,29 +1,50 @@
-# Hello 👋
-My name is Agustin, I'm a passionate Structural Bioinformatic and Data Analyst from Argentina 🧉.
+Hola, soy Agustín 👋
+(Hello, my name is Agustin)
 
-* 👨🏾‍🎓 I made my PhD in Computational Biophysics at Universidad de Buenos Aires (https://uba.ar/#/)
+## Científico de Datos | Biofísica Computacional | Ingeniero de ML
 
-## Last Years Experience
+Soy **Licenciado y Profesor en Biología** y **Doctor en Biofísica Computacional** de la Universidad de Buenos Aires (https://uba.ar/#/).
 
-* 🧬 Protein and Molecular Systems Modeling
-* 💻 Molecular Dynamics and Monte Carlo Simulation
-* 📏 Molecular Trajectory Analysis using TCL and Python (Prody, MDAnalysis, BioPython)
-* 💽 Database Generation and Maintenance in Python/Pandas
-* 🔭 Data Analysis of Databases with Python
-* 🔬 Statistical Analysis of Results with R
-* ✍🏿 Scientific writing and effective communication
+Tengo 1 año de experiencia en el sector privado, especializándome en construir modelos de *machine learning* de alto impacto y transformar datos crudos en *insights* accionables.
 
-## Skills
+Mi pasión es entender y modelar problemas complejos utilizando **simulaciones computacionales, modelado estadístico y matemático**. Actualmente, estoy enfocado en optimizar *pipelines* de datos para el pronóstico de fenómenos ecosistémicos de alto impacto, como las floraciones algales y la contaminación de acuíferos.
 
-* ✔️ Python, TCL, R programming
-* ✔️ Generative AI (RAG architecture, semantic search, prompt engeneering, etc.)
-* ✔️ Molecular Dynamics Simulation (NAMD) and Visualization (VMD)
-* ✔️ Data analysis and Statistics (Python, R)
-* ✔️ Scientific communication (LaTex)
-* ✔️ Fast learning
-* ✔️ Problem Solving
+Busco activamente oportunidades para aplicar mi *background* científico a problemas de datos desafiantes y colaborar con equipos de distintas partes del mundo en el sector privado, ya sea en *start-ups* o compañías consolidadas.
 
-## Looking for
+---
 
-🎯 I am looking to build my experience in the private sector, working with companies or start-ups
+### 🛠️ Mi Stack Tecnológico & Científico
 
+Un listado de las herramientas con las que diseño, modelo, analizo y construyo proyectos.
+
+* **Ciencia de Datos & ML:**
+    `Python` `R` `SQL` `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Keras` `PyTorch`
+* **Biofísica & Simulación (Academia):**
+    `NAMD` `VMD` `TCL` `Prody` `MDAnalysis` `BioPython`
+* **Visualización & Reporte:**
+    `Matplotlib` `Seaborn` `Plotly` `R (ggplot2)`
+* **DevOps & MLOps:**
+    `Git` `GitHub Actions`
+* **Inteligencia Artificial Generativa:**
+    `Arquitectura RAG` `Búsqueda Semántica` `Prompt Engineering`
+
+---
+
+### 🔭 Proyectos Destacados (Mis "Joyas")
+
+Próximamente organizaré mi trabajo para compartir algunos de los proyectos que mejor reflejan mis habilidades y mi enfoque para resolver problemas.
+
+---
+
+### 🌱 En Qué Estoy Trabajando (y Aprendiendo)
+
+* 🚀 Actualmente estoy construyendo una pipeline para el pronóstico de Floraciones Algales en el Laboratorio de Hidráulica (UNC).
+* 🧠 Estoy estudiando la Licenciatura en Física en la Unviersidad Nacional de Córdoba (1° año).
+* 🤝 Estoy buscando contribuir a proyectos *open source* relacionados con **bioinformática** o **herramientas de ciencia de datos científicas**.
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+![Estadísticas de [TU-USUARIO-AQUI]](https://github-readme-stats.vercel.app/api?username=afcaviglia&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-AQUI]&layout=compact&theme=radical)
