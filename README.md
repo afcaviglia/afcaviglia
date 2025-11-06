@@ -3,7 +3,7 @@ Hola, soy Agustín 👋
 
 ## Científico de Datos | Biofísica Computacional | Ingeniero de ML
 
-Soy **Licenciado y Profesor en Biología** y **Doctor en Biofísica Computacional** de la Universidad de Buenos Aires (https://uba.ar/#/).
+Soy **Licenciado y Profesor en Biología** y **Doctor en Biofísica Computacional** de la Universidad de Buenos Aires (https://uba.ar/#/) 🧉
 
 Tengo 1 año de experiencia en el sector privado, especializándome en construir modelos de *machine learning* de alto impacto y transformar datos crudos en *insights* accionables.
 
