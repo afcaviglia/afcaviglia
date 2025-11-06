@@ -47,4 +47,4 @@ Próximamente organizaré mi trabajo para compartir algunos de los proyectos que
 ### 📊 Mis Estadísticas en GitHub
 
 ![Estadísticas de [TU-USUARIO-AQUI]](https://github-readme-stats.vercel.app/api?username=afcaviglia&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-AQUI]&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=afcaviglia&layout=compact&theme=radical)
