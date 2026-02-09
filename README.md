@@ -1,7 +1,7 @@
 Hola, soy Agustín 👋
 (Hello, my name is Agustin)
 
-## Científico de Datos | Biofísica Computacional | Ingeniero de ML
+## Ciencia de Datos | Biofísica Computacional | Bioinformática Estructural
 
 Soy **Licenciado y Profesor en Biología** y **Doctor en Biofísica Computacional** de la Universidad de Buenos Aires (https://uba.ar/#/) 🧉
 
