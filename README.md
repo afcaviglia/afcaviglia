@@ -7,7 +7,7 @@ I completed two five-year degrees in Biology — a Licentiate and a Teaching Deg
 
 Desde hace medio año aproximadamente trabajo el Laboratorio de Hidráulica de la Universidad Nacional de Córdoba, especializándome en construir modelos de *machine learning* para el pronóstico de Floraciones Algales en lagos de Córdoba y desarrollando simulaciones de Dinámica Molecular para estimar propiedades físicas de las células involucradas en dichas floraciones.
 
-Me encuentro en primer año de la Licenciatura en Física en la Facultad de Matemática, Astronomía, Física y Computación (FAMAF) en la UNC con el objetivo de mejorar mi comprensión de los fenómenos biológicos desde una perspectiva física y matemática.
+I'm studying a bachelor in Physics at FAMAF (UNC) and a bachelor in Philosophy at FFyH (UNC).
 
 ---
 
