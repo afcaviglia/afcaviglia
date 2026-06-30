@@ -1,7 +1,7 @@
 Hola, soy Agustín 👋
 (Hello, my name is Agustin)
 
-## Molecular Dynamics Simulations | Computational Biophysics
+## Molecular Dynamic Simulations | Computational Biophysics
 
 I completed two five-year degrees in Biology — a Licentiate and a Teaching Degree — and went on to earn a Ph.D. in Computational Biophysics from Universidad de Buenos Aires (https://uba.ar/#/) 🧉
 
