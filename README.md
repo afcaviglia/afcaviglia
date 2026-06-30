@@ -1,9 +1,9 @@
 Hola, soy Agustín 👋
 (Hello, my name is Agustin)
 
-## Ciencia de Datos | Biofísica Computacional | Bioinformática Estructural
+## Molecular Dynamics Simulations | Computational Biophysics
 
-Soy **Licenciado y Profesor en Biología** y **Doctor en Biofísica Computacional** de la Universidad de Buenos Aires (https://uba.ar/#/) 🧉
+I completed two five-year degrees in Biology — a Licentiate and a Teaching Degree — and went on to earn a Ph.D. in Computational Biophysics from Universidad de Buenos Aires (https://uba.ar/#/) 🧉
 
 Desde hace medio año aproximadamente trabajo el Laboratorio de Hidráulica de la Universidad Nacional de Córdoba, especializándome en construir modelos de *machine learning* para el pronóstico de Floraciones Algales en lagos de Córdoba y desarrollando simulaciones de Dinámica Molecular para estimar propiedades físicas de las células involucradas en dichas floraciones.
 
